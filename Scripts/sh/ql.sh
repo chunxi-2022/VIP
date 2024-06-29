@@ -25,7 +25,7 @@ if  [ ! -n "$ql" ] ;then
 else
   echo "您设置的当前版本${ql}"
 fi 
-DOCKER_IMG_NAME="yanyuwangluo/qinglong"
+DOCKER_IMG_NAME="registry.cn-shenzhen.aliyuncs.com/qinglong-one/qinglong"
 JD_PATH=""
 SHELL_FOLDER=$(pwd)
 CONTAINER_NAME=""
