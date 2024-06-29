@@ -9,7 +9,8 @@ bash <(curl -sSL https://gitee.com/yanyuwangluo/onekey/raw/heihei/Docker.sh)
 ```
 ### 一键青龙2.11.3版本青龙，注意只可以选择2.11.3版本
 ```
-wget -q https://git.metauniverse-cn.com/https://raw.githubusercontent.com/yanyuwangluo/VIP/main/Scripts/sh/ql.sh -O ql.sh && bash ql.sh
+wget -q https://mirror.ghproxy.com/https://raw.githubusercontent.com/chunxi-2022/VIP/main/Scripts/sh/ql.sh -O ql.sh && bash ql.sh
+
 
 ```
 ### 一键青龙2.12版本青龙
