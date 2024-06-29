@@ -44,6 +44,7 @@ wget -q https://mirror.ghproxy.com/https://raw.githubusercontent.com/chunxi-2022
 ```
 wget -q https://mirror.ghproxy.com/https://raw.githubusercontent.com/chunxi-2022/VIP/main/Scripts/sh/ql.sh -O ql.sh && bash ql.sh
 ```
+11、安装完成之后，执行“依赖安装”定时任务安装依赖即可， JD_COOKIE 的格式如下pt_key=XXXXX; pt_pin=XXXXX;
 
 ### 一键青龙2.12版本青龙
 ```
