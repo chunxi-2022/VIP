@@ -9,7 +9,7 @@
 2：安装GPG证书。
 3：写入软件源信息。
 4：更新并安装Docker-CE
-5：上面是直接安装最新版本，查看一下Docker-CE的版本。
+5：下面是直接安装最新版本，查看一下Docker-CE的版本。
 6：后查看Docker的状态，服务是启动状态，并且service是enabled开机自启的状态。到这Docker安装完成。
 ```
 sudo apt-get update
