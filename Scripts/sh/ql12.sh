@@ -25,7 +25,7 @@ else
   echo "您设置的当前版本${ql}"
 fi 
 echo -------------------------------
-DOCKER_IMG_NAME="registry.cn-shenzhen.aliyuncs.com/qinglongchcx/qinglong2179"
+DOCKER_IMG_NAME="registry.cn-shenzhen.aliyuncs.com/qinglongchcx/qinglong"
 JD_PATH=""
 SHELL_FOLDER=$(pwd)
 CONTAINER_NAME=""
