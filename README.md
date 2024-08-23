@@ -3,6 +3,10 @@
 
 # 由 烟雨阁 和 Faker 联合维护的 一键系列
 ## 目前一键系列
+### 一键青龙2.17.9本仓库
+```
+wget -q https://mirror.ghproxy.com/https://raw.githubusercontent.com/chunxi-2022/VIP/main/Scripts/sh/ql12.sh -O ql12.sh && bash ql12.sh
+```
 ### 一键Dokcer
 ```
 bash <(curl -sSL https://git.metauniverse-cn.com/https://raw.githubusercontent.com/yanyuwangluo/VIP/main/Scripts/sh/docker.sh)
